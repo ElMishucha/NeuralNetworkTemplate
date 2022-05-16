@@ -1,0 +1,14 @@
+{
+  "layerSizes": [
+    24,
+    18,
+    18,
+    4
+  ],
+  "fieldsCount": 2000,
+  "gensCount": 20,
+  "initialSegmentsCount": 5,
+  "fieldWidth": 21,
+  "fieldHeight": 21,
+  "entitiesPerFieldCount": 1
+}
